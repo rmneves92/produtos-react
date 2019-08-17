@@ -1,0 +1,3 @@
+(criar um arquivo json chamado db.json)
+npm i -g json-server
+json-server --watch db.json --port 3001

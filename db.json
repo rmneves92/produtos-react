@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão liquido",
+      "categoria": 1
+    },
+    {
+      "produto": "Teste",
+      "categoria": "3",
+      "id": 8
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Bebidas"
+    }
+  ]
+}
